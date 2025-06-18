@@ -1,5 +1,11 @@
 # My-Frist-Smart-Contract-
 # Simple Token Contract
+*company* : CODETECH IT SOLUTIONS 
+*Name* : Arkapriya Das 
+*Intern Id* : CT08DG657
+*Domain* : BLOCKCHAIN TECHNOLOGY 
+*Duration* : 8 weeks 
+*Mentor* : NEELA SANTOSH 
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
