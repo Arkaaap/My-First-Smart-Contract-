@@ -15,8 +15,6 @@ A basic token contract written in Solidity.
 1. Copy the contract code from `SimpleToken.sol`
 2. Deploy using:
    - [Remix IDE](https://remix.ethereum.org)
-   - Hardhat
-   - Foundry
 
 ## Contract Details
 - Token Name: MyToken
